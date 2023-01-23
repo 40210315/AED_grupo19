@@ -284,4 +284,4 @@ def gamePg(gameName):
     ############################ MAINLOOP ###############################
     game.mainloop()
 
-gamePg("Subnautica")
+gamePg("Subnautica") # Dados de Controlo
